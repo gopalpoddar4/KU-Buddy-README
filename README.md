@@ -42,7 +42,7 @@
 
 ## 📥 Download
 
-👉 [Click Here to Download KU Buddy App](https://github.com/gopalpoddar4/KU-Buddy-Website)  
+👉 [Click Here to Download KU Buddy App](https://gopalpoddar4.github.io/KU-Buddy-Website/)  
 (Currently in beta phase — feedback is welcome!)
 
 ---
