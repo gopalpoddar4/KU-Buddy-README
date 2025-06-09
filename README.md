@@ -13,7 +13,7 @@
 - 🔔 Get **real-time university notices** via Firebase  
 - 🗓️ See exam schedules and important updates  
 - 💾 In-app access to **PDF study material**  
-- 🧠 Integrated **AI helper** using WebView (DeepSeek/ChatGPT)  
+- 🧠 Integrated **AI helper** using WebView (ChatGPT)  
 - 🎁 Rewarded ads for free access to premium content  
 - 🧭 Beautiful and intuitive UI for smooth navigation
 
@@ -42,7 +42,7 @@
 
 ## 📥 Download
 
-👉 [Click Here to Download KU Buddy App](https://yourmediafirelink.com)  
+👉 [Click Here to Download KU Buddy App](https://github.com/gopalpoddar4/KU-Buddy-Website)  
 (Currently in beta phase — feedback is welcome!)
 
 ---
